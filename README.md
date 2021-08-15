@@ -10,6 +10,6 @@
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=jfhr&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfhr&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfhr&theme=tokyonight&hide=html,css,sass,scss)
 
 Images rendered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
